@@ -16,10 +16,6 @@ from Wafer-4 given MANUALLY FIXED wafer_vctrl_sweep.csv file as input.
 Data must be in the following format in the manually fixed vctrl_sweep file:
 ... | Y | X | Y(Real) | X(Real) | ...
 
-
-Files that you want to fix MUST be copied to your local machine before running
-this script. It does not have permission to access network drives.
-
 ----------------------------------------------------------------------
 NOTES:
 
